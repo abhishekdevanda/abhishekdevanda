@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Abhishek Devanda 👋
 
-<!--
-**abhishekdevanda/abhishekdevanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm an aspiring web developer currently learning and working on projects with the MERN stack. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+- ***NextTube*** : Check out the project [here](https://next-tube-omega.vercel.app/) and the repository [here](https://github.com/abhishekdevanda/NextTube)
+- ***E-commerce Store*** : Check out the project [here](https://e-commerce-sy8f.onrender.com) and the repository [here](https://github.com/abhishekdevanda/E-Commerce-Store)
+- ***Food-Order-App*** : Check out the project [here](https://food-order-app-0gjk.onrender.com) and the repository [here](https://github.com/abhishekdevanda/Food-Order-App)
+
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat!
+
+- **[X](https://x.com/Abhi_Devanda)**
+- **[LinkedIn](https://www.linkedin.com/in/abhishekdevanda)**
+
+Thanks for visiting my profile, and I hope you enjoy following my journey! 🙌
+
