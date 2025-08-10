@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Backend Intern<br>- 📚 I'm currently learning Nest.Js</p>
+<p align="left">- 🔭 I’m working as <a href="https://github.com/abhishekdevanda-aucio">Mern stack developer</a>  <br>- 📚 I'm currently learning DSA</p>
 
 ###
 
