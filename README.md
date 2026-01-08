@@ -28,16 +28,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m working as <a href="https://github.com/abhishekdevanda-aucio">Mern stack developer</a>  <br>- 📚 I'm currently learning DSA</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
